@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function showData() {
+	dane = 
+			'Barbara Czaicka'  + '\n' + 
+			'186128'  + '\n';
+
+	navigator.notification.alert(dane);
+}
